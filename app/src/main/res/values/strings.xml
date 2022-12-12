@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alien Battle</string>
+    <string name="game_players">%1$s Players</string>
+    <string name="game_time">Time: %1$s</string>
+    <string name="game_winner">Winner: Player %1$s</string>
+    <string name="game_no_winner">No winner</string>
+    <string name="game_player_health_available_shoots">P:%1$s,%2$sh,%3$ss</string>
+    <string name="game_play_button">Play</string>
+</resources>
